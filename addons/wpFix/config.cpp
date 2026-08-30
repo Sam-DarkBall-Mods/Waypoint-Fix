@@ -9,7 +9,7 @@ class CfgPatches
 		{
 			"A3_Ui_F"
 		};
-		requiredVersion=0.1;
+		requiredVersion = 2.22;
 		units[]={};
 		weapons[]={};
 	};
