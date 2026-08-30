@@ -5,6 +5,7 @@ author = "DarkBall, Sam, and contributors"
 
 [files]
 include = [
+    "128x128.paa",
     "meta.cpp",
     "mod.cpp",
 ]
