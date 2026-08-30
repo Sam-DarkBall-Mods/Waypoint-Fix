@@ -1,4 +1,9 @@
 name = "Waypoint Fix 1.0.0";
+picture = "128x128.paa";
+logo = "128x128.paa";
+logoOver = "128x128.paa";
+logoSmall = "128x128.paa";
+overviewPicture = "128x128.paa";
 actionName = "GitHub";
 action = "https://github.com/Sam-DarkBall-Mods/Waypoint-Fix";
 description = "Waypoint Fix - Version 1.0.0";
